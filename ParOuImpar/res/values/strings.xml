@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Par ou Impar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="par">PAR</string>
+    <string name="impar">IMPAR</string>
+    <string name="voc_">Você</string>
+    <string name="pc">PC</string>
+    <string name="b_">\?</string>
+    <string name="a_">\?</string>
+    <string name="resultado">RESULTADO</string>
+
+</resources>

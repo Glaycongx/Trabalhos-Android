@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.senai.trekking.ContadorActivity" >
+
+    <item
+        android:id="@+id/acao_decremento"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/contador_regressivo"/>
+
+    <item
+        android:id="@+id/acao_total1"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/total_de_passos"/>
+    
+</menu>

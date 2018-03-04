@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trekking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_decremento">DecrementoActivity</string>
+    <string name="acao_decremento">acao_decremento</string>
+    <string name="contador_progressivo">Contador Progressivo</string>
+    <string name="contador_regressivo">Contador Regressivo</string>
+    <string name="title_activity_total">Total Geral de Passos</string>
+    <string name="voc_fez_uma_caminhada_de">Você fez uma caminhada de</string>
+    <string name="passos">Passos</string>
+    <string name="resultado">Resultado</string>
+    <string name="total_de_passos">Total de Passos</string>
+    <string name="zerar">Zerar</string>
+    <string name="_0">0</string>
+    <string name="reiniciar">Reiniciar</string>
+
+</resources>
